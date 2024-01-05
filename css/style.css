@@ -5,6 +5,21 @@ body{
     padding: 0;
     margin: 0;
 }
+#cabecera{
+    background-color: blue;
+    box-shadow: 0px 2px 20px 0px black ;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
+
+#container #tagline{
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
 
 #container{
     width: 70%;
@@ -17,3 +32,14 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#post{
+    padding: 1em;
+}
+
+
+
+
+
+
+
