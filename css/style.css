@@ -7,15 +7,35 @@ body{
     padding: 0;
 }
 
+#cabecera{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0 2px 20px 0 black ;
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container{
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid grey;
     margin: 0 auto;
+    box-shadow: 0 2px 20px 0 black ;
 
 }
 
 #container h1{
     font-size: 30px;
+}
+
+#post{
+    padding: 0.5em;
 }
