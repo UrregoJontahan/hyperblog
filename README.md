@@ -10,6 +10,7 @@ para visualizarlo 1) abrimos el archivo README.md 2) damos click en la parte sup
 en este curso vemos de todo:
 
 *creado por el increible yo 
+*icluyen cosas varias
 
 
 **Este readme es un chiste pero es bonito**
